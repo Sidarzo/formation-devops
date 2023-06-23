@@ -1,0 +1,20 @@
+{
+  "name": "formation-devops",
+  "version": "1.0.0",
+  "description": "\"# formation-devops\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sidarzo/formation-devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sidarzo/formation-devops/issues"
+  },
+  "homepage": "https://github.com/Sidarzo/formation-devops#readme"
+}
