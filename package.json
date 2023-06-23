@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Sidarzo/formation-devops/issues"
   },
-  "homepage": "https://github.com/Sidarzo/formation-devops#readme"
+  "homepage": "https://github.com/Sidarzo/formation-devops#readme",
+  "dependencies": {
+    "should": "^13.2.3"
+  }
 }
